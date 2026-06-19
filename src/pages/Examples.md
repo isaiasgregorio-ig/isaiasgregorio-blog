@@ -3,6 +3,7 @@ title: Examples - Blog Template
 name: Examples
 description: Examples of markdown syntax, custom components and styles.
 date: '2021-07-21'
+image: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80
 ---
 
 <Title :title="frontmatter.name" :description="frontmatter.description" :published="frontmatter.date" />

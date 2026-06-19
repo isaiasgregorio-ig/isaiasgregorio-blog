@@ -3,6 +3,7 @@ title: Getting started - Blog Template
 name: Getting started
 description: A short guide on how to customize the blog template, and host your own site.
 date: '2021-07-22'
+image: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&q=80
 layout: default
 meta:
   - name: keywords
@@ -115,7 +116,7 @@ The project includes a GitHub Build Action in the `.github/workflows/deploy.yml`
 
 Set the `base` in `vite.config.js` to `'/'` or remove it entirely.
 
-Setup up a new project on Netlify from GitHub, the settings should be picked up from the `netlify.toml`. But if they're not the commands should be:
+Setup a new project on Netlify from GitHub, the settings should be picked up from the `netlify.toml`. But if they're not the commands should be:
 
 Build Command: `npm run build`
 Publish directory: `dist`

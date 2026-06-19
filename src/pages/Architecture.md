@@ -3,6 +3,7 @@ title: Achitecture - Blog Template
 name: Architecture
 description: Explaining the architecture of the blog template. Including the tech stack used, project folder structure, and dependencies.
 date: '2021-07-23T00:00:00'
+image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80
 ---
 
 <Title :title="frontmatter.name" :description="frontmatter.description" />
