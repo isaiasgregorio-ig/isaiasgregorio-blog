@@ -1,9 +1,9 @@
 <p align='center'>
-  <img src='https://falldownthesystem.github.io/blog/pwa-512x512.png' alt='Blog Template Logo' width='256'/>
+  <img src='https://falldownthesystem.github.io/blog/pwa-512x512.png' alt='Blog Logo' width='256'/>
 </p>
 
 <p align='center'>
-An opinionated blog starter template - statically generated with Vite and Vue 3.
+An opinionated blog starter - statically generated with Vite and Vue 3.
 </p>
 
 <p align='center'>

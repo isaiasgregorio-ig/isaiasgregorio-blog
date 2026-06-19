@@ -1,5 +1,5 @@
 ---
-title: Examples - Blog Template
+title: Examples - Blog
 name: Examples
 description: Examples of markdown syntax, custom components and styles.
 date: '2021-07-21'

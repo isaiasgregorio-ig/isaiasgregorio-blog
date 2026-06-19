@@ -68,7 +68,7 @@ export default async ({ command, mode }) => {
 				registerType: 'autoUpdate', // default is 'promp'
 				includeAssets: ['favicon.svg', 'robots.txt', 'safari-pinned-tab.svg'],
 				manifest: {
-					name: 'Blog',
+					name: 'Blog | Isaias Gregorio',
 					short_name: 'Blog',
 					theme_color: '#ffffff',
 					icons: [

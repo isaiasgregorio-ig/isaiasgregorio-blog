@@ -1,8 +1,8 @@
 <template>
 	<div class="prose dark:prose-dark mb-16">
 		<Title>
-			A Blog Template
-			<template v-slot:description>This is a blog template with a description.</template>
+			Blog
+			<template v-slot:description>Blog personal de Isaias Gregorio.</template>
 		</Title>
 	</div>
 	<PostList />
@@ -13,8 +13,8 @@
 import { useHead } from '@vueuse/head';
 
 useHead({
-	title: 'Blog',
-	meta: [{ name: 'description', content: 'Blog example description' }]
+	title: 'Blog | Isaias Gregorio',
+	meta: [{ name: 'description', content: 'Blog personal de Isaias Gregorio' }]
 });
 </script>
 

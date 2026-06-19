@@ -65,7 +65,7 @@
 				ring-primary-500
 			"
 		>
-			<i-heroicons-outline:code class="w-7 h-7" />
+			<img src="/public/logo.jpg" alt="logo" width="150" height="150" class="rounded-xl">
 		</router-link>
 		<!-- Toggle theme -->
 		<div class="bg-gray-400 w-full h-[1px] mr-6"></div>
@@ -94,7 +94,7 @@
 		<div class="bg-gray-400 w-full h-[1px] mr-6"></div>
 		<a
 			aria-label="View source"
-			href="https://github.com/FallDownTheSystem/blog"
+			href="https://github.com/isaiasgregorio-ig/blog"
 			target="_blank"
 			rel="noopener noreferrer"
 			class="

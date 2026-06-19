@@ -18,7 +18,7 @@ This guide will tell you how to change all the relevant parts of the template to
 
 ## Modify name
 
-First things first, you'll probably want to name your blog something other than "Blog Template".
+First things first, you'll probably want to name your blog something other than "Blog".
 
 I'll list the files that you need to make changes to here:
 
@@ -48,9 +48,9 @@ This page contains the following front matter:
 
 ```yaml
 ---
-title: Getting started - Blog Template
+title: Getting started - Blog
 name: Getting started
-description: A short guide on how to customize the blog template, and host your own site.
+description: A short guide on how to customize the blog, and host your own site.
 date: '2021-07-22'
 layout: default
 meta:

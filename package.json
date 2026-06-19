@@ -1,6 +1,8 @@
 {
 	"name": "blog",
 	"version": "0.0.0",
+	"description": "Blog personal de Isaias Gregorio",
+	"author": "Isaias Gregorio",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite-ssg build",
